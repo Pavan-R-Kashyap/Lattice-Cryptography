@@ -15,5 +15,10 @@ The Project Introduction document lays the foundation for the necessity of devel
    
  - A detailed report highlighting the protocol’s proposed approach is provided inside the Ndimensionalising the Merkel Tree folder. Agent-based simulation models written in NetLogo, to simulate the wealth disparity trends in the conventional and proposed protocol is also provided in this directory.
 
+# Copyright
+All the documents in this repository are &copy copyright of Pavan R Kashyap 
+
 # Contact Information
 For inquiries or collaboration opportunities, feel free to contact Pavan R Kashyap at pavanrkashyap@gmail.com
+
+
